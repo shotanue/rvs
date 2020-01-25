@@ -1,0 +1,7 @@
+[package]
+name = "rvs"
+version = "0.1.0"
+authors = ["shotanue <22065594+shotanue@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
